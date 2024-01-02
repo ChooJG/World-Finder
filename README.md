@@ -4,4 +4,10 @@
 
 ![logo](https://github.com/ChooJG/World-Finder/assets/101338601/e7f8d244-0ec6-481b-a947-96fd7870fb76)
 
+
+
+사용기술
+Spring (STS), jQuery, Oracle, JS, JSP
+
+
 (프로젝트의 자세한 내용은 프로젝트설명.pdf를 참고해 주세요)
